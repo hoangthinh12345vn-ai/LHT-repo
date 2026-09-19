@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.lht.repo",
+  "name": "Thinh Repo",
+  "description": "Repo lưu trữ hình nền của Thịnh",
+    "accentColor": "#94ccff",
+  "icon": "IMG_9051.jpeg",
+  "packages": [
+    {
+      "identifier": "Snow Emitters",
+      "kind": "wallpaper",
+      "name": "Snow Emitters",
+      "author": "enkei64",
+      "version": "1.0.0",
+      "summary": "Snowballs falling from the sky",
+      "description": "Snowballs falling from the sky",
+      "category": "wallpaper",
+      "tags": [
+        "Wallpaper"
+      ],
+      "icon": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/previews/gif/Snow_Emitters.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/previews/gif/Snow_Emitters.gif"
+      ],
+      "publishedAt": "2026-09-19T10:00:00Z",
+      "download": "https://raw.githubusercontent.com/CAPlayground/wallpapers/refs/heads/main/wallpapers/Snow_Emitters.tendies",
+      "sha256": "96d4fc9201810edf31b927c33f99264288ca69217ca819e6ab96de18939bfad4",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    }
+   ]
+  }
+    
