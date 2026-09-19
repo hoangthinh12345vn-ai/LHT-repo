@@ -3,7 +3,7 @@
   "identifier": "com.lht.repo",
   "name": "Thinh Repo",
   "description": "Repo lưu trữ hình nền của Thịnh",
-    "accentColor": "#94ccff",
+  "accentColor": "#94ccff",
   "icon": "IMG_9051.jpeg",
   "packages": [
     {
@@ -48,6 +48,5 @@
       "featured": false,
       "isPrivate": false
     }
-   ]
-  }
-    
+  ]
+}
